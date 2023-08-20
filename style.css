@@ -1,0 +1,25 @@
+h1{
+    color:black;
+    background-color:wheat;
+    text-align: justify;
+   width: 35vw;
+   height: 8.5vh;
+}
+
+p{
+    color: rgb(94, 0, 245);
+    background-color: rgb(229, 238, 240);
+}
+
+p{
+    font-size: 20PX;
+    text-align: justify;
+    text-align-last: center;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: black;
+    text-decoration: none;
+    line-height: 1.4;
+    text-transform: capitalize;
+    font-family: 'Roboto', sans-serif;
+}
